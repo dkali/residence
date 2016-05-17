@@ -22,5 +22,3 @@ end
 
 puts "days spent in Russia within the last year: #{days_in_russia}"
 puts "can travel for #{365/2-(365-days_in_russia)} days"
-# time = System::DateTime.ParseExact("09/04/2016", "dd/MM/yyyy", culInfo)
-# puts time
